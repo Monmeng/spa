@@ -29,10 +29,12 @@
 #circ{
   width:200px;
   height:20px;
+  background-color:#f0f0f0;
 }
 #area{
   width:200px;
   height:20px;
+  background-color:#f0f0f0;
 }
 #a{
   margin-left:50px;
