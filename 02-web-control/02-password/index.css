@@ -14,3 +14,28 @@
   height:30px;
   float:right
 }
+#pwDisplay {
+    width: 216px;
+    height: 20px;
+    display: none;
+    position: absolute;
+    left: 2px;
+    top: 10px;
+    border: #fff;
+
+}
+
+.aa{
+    position: relative;
+    display: inline-block;
+}
+
+img {
+    display: inline-block;
+    height: 28px;
+    position: relative;
+    top:2px;
+    left: -50px;
+    z-index: 9;
+}
+
