@@ -3,6 +3,7 @@
   height:34px;
   font-size:20px;
   margin:100px 500px;
+  position:relative;
 }
 #pwd{
   height:26px;
@@ -18,17 +19,13 @@
     width: 216px;
     height: 20px;
     display: none;
-    position: absolute;
+    position: relative;
     left: 2px;
     top: 10px;
     border: #fff;
 
 }
 
-.aa{
-    position: relative;
-    display: inline-block;
-}
 
 img {
     display: inline-block;
